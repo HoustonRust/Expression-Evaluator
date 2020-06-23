@@ -1,0 +1,4 @@
+export const PUSH_IN_OPERANDS = "PUSH_IN_OPERANDS";
+export const UPDATE_OPERAND = "UPDATE_OPERAND";
+export const SET_OPERATOR = "SET_OPERATOR";
+export const ADD_OPERATION = "ADD_OPERATION";
